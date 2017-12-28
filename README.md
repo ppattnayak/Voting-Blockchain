@@ -15,4 +15,4 @@ For a visual representation of our blockchain process please refer to the ppt in
 
 #Basic implementation of a blockchain is derived from https://github.com/dvf/blockchain.
 #This POC was developed as part of a class project for MS IS at UW, Seattle.
-#Developed with contribution from Garima, Victor, Alex, Woody and Ariel.
+#Developed with contribution from Team members - Garima, Victor, Alex, Woody and Ariel.
